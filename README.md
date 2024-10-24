@@ -1,6 +1,6 @@
 Oii meu nome é camille 🌘 
 
-tenho 15 anos 
+tenho 16 anos 
 
 - Estou estudando na Alura
 - Estou me desenvolvendo na linguagem JavaScript
